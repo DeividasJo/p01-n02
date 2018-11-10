@@ -1,0 +1,29 @@
+body{
+    background: #dddddd;
+    font-family: 'Montserrat', sans-serif;
+}
+.main{
+    background:#ffffff;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+}
+h1{
+    font-size: 50px;
+}
+.about{
+    background:#a2cbf5;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+}
+span{
+    color: #ffffff;
+    font-weight: 900;
+}
+.zaibs{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
